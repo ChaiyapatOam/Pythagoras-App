@@ -1,6 +1,8 @@
 # Pythagoras-App
 Pythagoras Calculator
-# install
+# Download app
+PythagorasApp.exe
+## install 
 ```py
 pip install pyinstaller
 ```
